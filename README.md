@@ -6,7 +6,7 @@ Proiectele acestea sunt realizate pentru a exersa concepte precum reprezentarea 
 
 ## Proiecte incluse
 
-### 1.Problem misionarilor si canibalilor
+### 1.Problema misionarilor si canibalilor
 
 Proiectul acesta rezolva problema clasica a misionarilor si canibalilor folosind algoritmi de cautare.
 
@@ -33,7 +33,7 @@ AI-ul alege mutarile folosind algoritmul Minimax, impreuna cu Alpha-Beta pruning
 
 Algoritmii si conceptele folosite in proiect:
 
-- Minima
+- Minimax
 - Alpha-Beta pruning
 - memoizare
 - generarea mutarilor posibile
@@ -42,7 +42,7 @@ Algoritmii si conceptele folosite in proiect:
 
 ### 3.8-Puzzle
 
-Proiectulrezolva problema 8-Puzzle,o problema clasica de cautare.
+Proiectul rezolva problema 8-Puzzle,o problema clasica de cautare.
 
 Scopul este transformarea unei configuratii initiale intr-o configuratie finala, prin mutari valide ale pieselor.
 
